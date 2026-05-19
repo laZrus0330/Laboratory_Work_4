@@ -412,24 +412,6 @@ It ensures AI systems use meaningful features.
 
 ---
 
-# Repository Structure
-
-```text
-Laboratory-Work-4/
-│── README.md
-│── images/
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   ├── gradcam_heatmap.png
-│   └── metrics_visualization.png
-│
-│── saved_model/
-│
-└── dataset_sample/
-```
-
----
-
 # Conclusion
 
 The baseline CNN achieved stronger performance compared to the modified model.
