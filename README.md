@@ -2,6 +2,8 @@
 
 *Here is my Google Colab Folder:* [**Click Here!**](https://colab.research.google.com/drive/1GzYM7-RWkxZhMNuJko9EoGUqKMd6V5_X?usp=sharing)
 
+*Here is my Model:* [**Click Here!**](https://drive.google.com/file/d/1eLy5UKIC96RM0jvin25uXmhjMo6OaylC/view?usp=sharing)
+
 ---
 
 # Guide Questions (Student Reflection and Explanation)
